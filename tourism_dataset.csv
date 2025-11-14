@@ -1,4 +1,4 @@
-Spot ID,Location,Ticket price,Accessibility,Popularity,Safety,Privacy_Level,Blockchain_Trust,Eco_Sustainability
+ID,Destination,Ticket price,Accessibility,Popularity,Safety,Privacy,Trust,Sustain
 T001,Bali Beach Resort,Rp 1.800.000,4.5,4.7,4.2,4.8,4.5,4.6
 T002,Borobudur Temple,Rp 1.500.000,4.1,4.6,4.9,4.4,4.8,4.2
 T003,Mount Bromo,Rp 1.200.000,4.3,4.8,4.7,4.5,4.4,4.5
